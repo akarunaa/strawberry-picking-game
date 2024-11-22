@@ -1,6 +1,6 @@
 # strawberry picking game 🍓
 
-welcome to the strawberry picking game! in this game, you control a player who moves left and right to collect strawberries 🍓 before time runs out. avoid falling off the ground and jump to grab as many strawberries as possible.
+welcome to the strawberry picking game! in this game, you control a player who moves left and right to collect strawberries 🍓 before time runs out. 
 
 ## game instructions 🕹️
 
